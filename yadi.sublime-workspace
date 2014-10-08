@@ -1,0 +1,235 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ta",
+				"table-cell"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 131,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 159.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/sabhi/webdev/yadvir/assets/js/app/controller.js",
+		"/home/sabhi/webdev/yadvir/views/index.html",
+		"/home/sabhi/webdev/yadvir/views/javascripts.html.twig",
+		"/home/sabhi/webdev/yadvir/views/styles.html.twig",
+		"/home/sabhi/webdev/yadvir/index.php",
+		"/home/sabhi/webdev/yadvir/views/base.html",
+		"/etc/apache2/sites-available/votetocracy",
+		"/home/sabhi/webdev/yadvir/assets/js/controller.js",
+		"/home/sabhi/webdev/yadvir/composer.json",
+		"/home/sabhi/webdev/yadvir/views/test.html",
+		"/home/sabhi/webdev/yadvir/vendor/autoload.php",
+		"/home/sabhi/webdev/yadvir/pages/test.html",
+		"/home/sabhi/webdev/yadvir/pages/try.html.twig",
+		"/home/sabhi/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/sabhi/webdev/index.php",
+		"/home/sabhi/webdev/index.html",
+		"/home/sabhi/webdev/votetocracy/test.html",
+		"/var/www/votetocracy/index.php",
+		"/home/sabhi/votetocracy/index.html",
+		"/etc/apache2/httpd.conf",
+		"/usr/sbin/apache2",
+		"/home/sabhi/sabhi/res/learn-more/index.html",
+		"/home/sabhi/sabhi/res/learn-more/styles.css",
+		"/home/sabhi/sabhi/res/newitstore/styles-new.css",
+		"/home/sabhi/sabhi/res/newitstore/index.html",
+		"/home/sabhi/sabhi/res/newitstore/itstore-min.js",
+		"/home/sabhi/sabhi/res/newitstore/tablet.css",
+		"/home/sabhi/sabhi/res/newitstore/laptop.css",
+		"/home/sabhi/sabhi/res/newitstore/big.css",
+		"/home/sabhi/sabhi/study/jquery/index.html",
+		"/home/sabhi/sabhi/study/jquery/styles.css",
+		"/home/sabhi/sabhi/study/jquery/animate-min.js",
+		"/home/sabhi/sabhi/study/styles.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"; ",
+			";}",
+			"WHERE"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 131,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								39,
+								39
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.unsaved_changes":
+	{
+		"height": 218.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 193.0,
+	"status_bar_visible": true
+}
